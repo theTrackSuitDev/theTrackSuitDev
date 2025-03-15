@@ -37,7 +37,7 @@ I am passionte about backend developent and I think I have a natural interest in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theTrackSuitDev&layout=compact&theme=radical)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/theTrackSuitDev/theTrackSuitDev/output/github-snake-dark.svg?palette=github-dark)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/theTrackSuitDev/theTrackSuitDev/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
 ---
 
