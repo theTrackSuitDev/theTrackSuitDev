@@ -3,22 +3,29 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: theTrackSuitDev
+          github_user_name: ${{ github.actor }}
           outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: Push Snake to Output Branch
         run: |
-          git config --global user.email "theTrackSuitDev@users.noreply.github.com"
-          git config --global user.name "theTrackSuitDev"
           git checkout --orphan output
           git --work-tree=dist add --all
           git --work-tree=dist commit -m "Generate contribution grid snake"
