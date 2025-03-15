@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: your-username
+          github_user_name: theTrackSuitDev
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to Output Branch
