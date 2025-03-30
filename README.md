@@ -44,7 +44,7 @@ I am passionte about backend developent and I think I have a natural interest in
 ### What's new:
 I’m currently developing an API for a GPT wrapper app as a JS Backend intern
 
-I have two courses on the imminet pipeline:
+I have two courses on the imminent pipeline:
 
 -- Algorithms and Data Structures with JS
 
