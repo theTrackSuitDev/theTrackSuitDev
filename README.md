@@ -3,12 +3,12 @@
 ## Hi there, I'm Miroslav!
 
 I am a former legal professional with experience in criminal law and penal procedures. 
-Now storming the programming world by learning to actively code with various JavaScript frameworks.
+Now exploring the programming world by learning to code with various JavaScript frameworks and libraries.
 
 ## Good to know:
-Just making things work is not enough for me! I constantly grind to make my code simple, robust and maintainable. Whether I manage to is another topic, but at least I try and I want to.
+Just making things work is not enough for me! I constantly grind to make my code simple, robust and maintainable. 
 
-I am passionte about backend developent and I think I have a natural interest in architectures. I am coping fine with frontend developent too but it's a bit annoying at times.
+I am passionate about backend development and interested in architectures. I am coping fine with frontend development too, tho it's a bit annoying at times.
 
 ---
 
@@ -42,13 +42,13 @@ I am passionte about backend developent and I think I have a natural interest in
 ---
 
 ### What's new:
-I’m currently developing an API for a GPT wrapper app as a JS Backend intern
+Recently finished my JS Backend internship. :white_check_mark:
 
-I have two courses on the imminet pipeline:
+Just completed a course on Algorithms and Data Structures with JS. :white_check_mark:
 
--- Algorithms and Data Structures with JS
+Next course on my imminent pipeline:
 
--- Typescript
+-- Typescript :hourglass:
 
 ---
 
